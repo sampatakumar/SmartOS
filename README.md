@@ -170,7 +170,7 @@ SmartOS/
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/sampatakumar/SmartOS.git]
+   git clone https://github.com/sampatakumar/SmartOS.git
    ```
 
 2. Open in Android Studio
