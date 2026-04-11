@@ -220,7 +220,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**SampathKumar**
+**SampataKumar S V**
 Computer Science Engineering Student
 
 ---
