@@ -1,4 +1,4 @@
-# 🚀 SmartOS — Intelligent Android Launcher (iOS 16 Pro Inspired)
+# 🚀 SmartOS — Intelligent Android Launcher
 
 SmartOS is a next-generation Android launcher designed to deliver a seamless, intelligent, and highly customizable user experience inspired by iOS 16 Pro. It combines modern UI design, AI-powered features, and system-level capabilities to transform Android into a smart, adaptive operating environment.
 
